@@ -12,7 +12,7 @@ export default function Hero() {
 
             <section className='flex gap-2 text-primary items-center'>
                 <a href="https://github.com/Davismeru"><BsGithub/></a>
-                <BsLinkedin />
+                <a href="https://www.linkedin.com/in/davis-meru-a5320324a/"><BsLinkedin /></a>
             </section>
         </nav>
 
